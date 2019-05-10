@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/nikl881/e-commerce-app.svg?branch=master)](https://travis-ci.org/nikl881/e-commerce-app)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
